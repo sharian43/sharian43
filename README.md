@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my personal website  
   
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning something
   
 
 - ⚡ Fun fact: I love playing table tennis  
