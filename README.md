@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Sharian Johnson</h1>
 <h3 align="left">A second-year Computer Science student at the University of the West Indies</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and working on my **Blog**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sharian43](https://github.com/sharian43)
 
 - 📫 How to reach me **shariant98@gmail.com**
 
-- 📄 Know about my experiences 
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
